@@ -16,7 +16,7 @@ export default [
       id: 2, // ✅ Changed to a unique ID
       name: 'Monthly',
       cost: 7.99,
-      paymentLink: 'https://buy.stripe.com',
+      paymentLink: 'https://buy.stripe.com/test_dR66pnb4N3h16NW6oo',
       offering: [
         { value: '✓ Create Unlimited Mock Interviews' },
         { value: '✓ Unlimited Retake Interviews' },
